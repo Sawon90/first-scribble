@@ -1,16 +1,14 @@
-# first-scribble
+# First Scribble
 
-This template should help get you started developing with Vue 3 in Vite.
+First Scribble is a fun and interactive website designed to help young children learn English alphabet, numbers, and 
+words. With engaging activities and colorful visuals, kids can easily master the basics of reading and writing, while 
+having fun and building confidence. Get your child started on the path to literacy with First Scribble today!
 
-## Recommended IDE Setup
+### Demo
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+You can view live [Demo Here](https://sawon90.github.io/first-scribble/) (https://sawon90.github.io/first-scribble/)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+### Project Setup
 
 ```sh
 npm install
